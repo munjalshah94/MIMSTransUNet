@@ -1,5 +1,5 @@
 # TransUNet
-This repo holds code for MIMSTransUNet: Mulit Image Modality application for the TransUNet
+This repo holds code for MIMSTransUNet: Mulit Image Modality Segmentor using TransUNet
 
 ## Usage
 
