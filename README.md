@@ -4,7 +4,7 @@ This repo holds code for MIMSTransUNet: Mulit Image Modality Segmentor using Tra
 ## Usage
 
 ### 1. Test the model
-You can find instructions on the how to test the architechure using the [synapse multi-organ dataset] (https://drive.google.com/drive/folders/1ACJEoTp-uqfFJ73qS3eUObQh52nGuzCd?usp=sharing) for research purposes. at [TransUNet](https://github.com/Beckschen/TransUNet)
+You can find instructions on the how to test the architechure using the synapse multi-organ [dataset](https://drive.google.com/drive/folders/1ACJEoTp-uqfFJ73qS3eUObQh52nGuzCd?usp=sharing) for research purposes. at [TransUNet](https://github.com/Beckschen/TransUNet)
 ### 2. Prepare data
 
 Please go to ["./datasets/README.md"](datasets/README.md) for details.
