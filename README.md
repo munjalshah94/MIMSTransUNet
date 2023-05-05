@@ -15,7 +15,7 @@ Please prepare an environment with python=3.7, and then use the command "pip ins
 
 ### 4. Train/Test
 
-- Run the train script on synapse dataset. The batch size is 6 to save memory.
+- Run the train script on synapse dataset. 
 
 ```bash
 python train.py --dataset Synapse --vit_name R50-ViT-B_16 --batch_size=6 --base_lr=0.01 --max_epochs=150 --max_iterations=30000
