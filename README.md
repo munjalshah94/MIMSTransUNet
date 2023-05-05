@@ -21,7 +21,7 @@ Please prepare an environment with python=3.7, and then use the command "pip ins
 python train.py --dataset Synapse --vit_name R50-ViT-B_16 --batch_size=6 --base_lr=0.01 --max_epochs=150 --max_iterations=30000
 ```
 
-- Run the test script on synapse dataset. It supports testing for both 2D images and 3D volumes. --is_savenii flag saves the predcitions with appropariate spacing from nifiti image metadata.
+- Run the test script. It supports testing for both 2D images and 3D volumes. --is_savenii flag saves the predcitions with appropariate spacing from nifiti image metadata.
 
 ```bash
 python test.py --dataset Synapse --vit_name R50-ViT-B_16 --is_savenii
